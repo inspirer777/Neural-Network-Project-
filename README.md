@@ -27,6 +27,9 @@ To run this project, you'll need the following libraries:
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+- keras
+- matplotlib
+- pandas
 
 You can install the dependencies using the following command:
 
@@ -39,7 +42,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/neural-network-project.git
+   git clone https://github.com/inspirer777/Neural-Network-Project.git
    cd neural-network-project
    ```
 
